@@ -1,6 +1,6 @@
 # deepcon-code
 
-The beta implement of paper "DeepCon: Contribution Coverage Testing for Deep Learning Systems"
+The beta implementation of paper "DeepCon: Contribution Coverage Testing for Deep Learning Systems"
 
 1. conda install tensorflow-gpu=1.14.0 keras=2.2.4
 
